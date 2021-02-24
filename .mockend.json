@@ -1,8 +1,13 @@
 {
   "Post": {
-    "title": "hellohowareyou",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date"
+    "a": "string",
+    "b": "int",
+    "c": "boolean",
+    "d": "date",
+    "e": "Comment[]"
+  },
+  "Comment": {
+    "body": "string",
+    "post": "Post"
   }
 }
