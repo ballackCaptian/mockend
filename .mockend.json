@@ -1,10 +1,10 @@
 {
   "Post": {
-    "吴泽欣": "string",
-    "b": "int",
-    "c": "boolean",
-    "d": "date",
-    "e": "Comment[]"
+    "吴": "string",
+    "泽": "int",
+    "欣": "boolean",
+    "日期": "date",
+    "评论": "Comment[]"
   },
   "Comment": {
     "body": "string",
